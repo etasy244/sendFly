@@ -229,9 +229,14 @@ $('ul.tabs li').click(function(event) {
             $('.video-overlay').removeClass('active');            
         }
     });
-    
+
 /*------------------------------------------------
                 END JQUERY
 ------------------------------------------------*/
+
+
+    $(".wp-travel-booknow-btn").click(function () {
+        console.log("clicked");
+    });
 
 });

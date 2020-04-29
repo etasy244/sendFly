@@ -1,0 +1,22 @@
+{
+  "name": "sendfly",
+  "version": "1.0.0",
+  "description": "travels and tour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etasy244/sendFly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etasy244/sendFly/issues"
+  },
+  "homepage": "https://github.com/etasy244/sendFly#readme",
+  "dependencies": {
+    "uglify-js": "^3.9.1"
+  }
+}

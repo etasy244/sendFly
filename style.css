@@ -239,7 +239,7 @@ html {
 
 body {
 	margin: 0;
-	font-family: 'Courier New', sans-serif;
+	font-family: "Verdana", sans-serif;
 	font-weight: 400;
 }
 
@@ -7501,4 +7501,22 @@ body:not(.home).dark-version,
 		width: auto;
 	}
 }
+/* New CSS */
+.wp-travel-tab-wrapper #faq.tab-list-content {
+    display:none;
+}
+.wp-travel-ert.faq{
+    display: none;
+}
+.wp-travel-ert.faq.tab-8.resp-tab-item{
+    display: none;
+}
+#secondary .wp-travel-booking-wrapper .wp-travel-booknow-btn{
+    display: none;
+}
+.wp-travel-booking-enquiry{
+font-size: medium;
+font-weight: 600;
+color: red;}
+
 
